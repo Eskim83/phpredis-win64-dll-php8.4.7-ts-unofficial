@@ -30,8 +30,20 @@ extension=php_redis.dll
 * It is **not** an official release. Use at your own risk.
 * Only compatible with **PHP 8.4.7 TS x64 VC17** builds.
 
+## 📖 Related Article
+
+See full step-by-step guide (in Polish):  
+👉 https://eskim.pl/jak-skompilowac-php_redis-dll-dla-php-8-4-x-na-windowsie-laragon-vs17-ts-nts/
+
 ## 📄 License
 
 This DLL was built from the original [phpredis source](https://github.com/phpredis/phpredis), which is released under the [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
 
 > All rights belong to the original authors.
+
+---
+
+## ☕ Support
+
+If this saved you time or frustration, feel free to buy me a coffee:  
+[https://www.buymeacoffee.com/twojanazwa](https://www.buymeacoffee.com/twojanazwa)
