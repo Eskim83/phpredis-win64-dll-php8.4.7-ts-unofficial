@@ -1,0 +1,1 @@
+# phpredis-win64-dll-php8.4.7-ts-unofficial
