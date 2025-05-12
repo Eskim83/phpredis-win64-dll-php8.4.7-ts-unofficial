@@ -46,4 +46,4 @@ This DLL was built from the original [phpredis source](https://github.com/phpred
 ## ☕ Support
 
 If this saved you time or frustration, feel free to buy me a coffee:  
-[https://www.buymeacoffee.com/twojanazwa](https://www.buymeacoffee.com/twojanazwa)
+[https://www.buymeacoffee.com/eskim](https://www.buymeacoffee.com/eskim)
